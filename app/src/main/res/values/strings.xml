@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MovieShare</string>
+    <string name="api_key">07687f7d8feea7476b73f705bd8b321b</string>
+    <string name="server_error">An unknown error occurred.</string>
 </resources>
